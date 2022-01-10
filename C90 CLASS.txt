@@ -1,0 +1,9 @@
+C90 CLASS PROJECT- Brainstorming
+
+-> E-waste Recycle locator
+-> Reminder App
+-> Thrift store locator
+-> College Quest App
+-> Free Books App [lets new authors add their stories]
+-> "Things you like to do" App
+-> Study Buddy
